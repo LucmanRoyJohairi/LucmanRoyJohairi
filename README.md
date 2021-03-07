@@ -15,7 +15,7 @@
 - 💬 Ask me about Anything
 - ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
 -  :sunglasses: Pronouns: He/Him/King
-- ⚡ Fun fact: I am improving my skills everyday!
+- 💡 Fun fact: I am improving my skills everyday!
 
 ### Connect with me:
 
@@ -57,10 +57,10 @@
 
 
 [gmail]: https://mail.google.com/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com
+[youtube]: https://youtube.com
+[instagram]: https://instagram.com
+[linkedin]: https://linkedin.com
 [webdevplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
