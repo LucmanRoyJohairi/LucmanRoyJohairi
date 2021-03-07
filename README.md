@@ -1,19 +1,20 @@
-### Glad you Found me! 👋
+### Glad you Found me! 👊
 
 <!--
 **LucmanRoyJohairi/LucmanRoyJohairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ## Mobile Developer, Web Developer, UI/UX Designer
 
-Here are some ideas to get you started:
+ A bit about me: 
 
-- 🔭 I’m currently working on An App
-- 🌱 I’m currently learning  Bloc Pattern
+- 💻 I’m currently working on An App 😏 
+-  :book: I’m currently learning  Bloc Pattern
 - 👯 I’m looking to collaborate on  Flutter
-- 🤔 I’m looking for help with  Everything
-- 💬 Ask me about  Anything
-- 📫 How to reach me: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
-- 😄 Pronouns: He/Him/King
+- 🔎 I’m looking for help with  Everything
+- 💬 Ask me about Anything
+- ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
+-  :sunglasses: Pronouns: He/Him/King
 - ⚡ Fun fact: I am improving my skills everyday!
 
 ### Connect with me:
