@@ -14,8 +14,8 @@
 - 🔎 I’m looking for help with  Everything
 - 💬 Ask me about Anything
 - ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
--  :sunglasses: Pronouns: He/Him/King
-- 💡 Fun fact: I am improving my skills everyday!
+-  :sunglasses: Call me: Bro/Sir/King
+- 💡 Fun fact: I am improving my skills Everyday!
 
 ### Connect with me:
 
