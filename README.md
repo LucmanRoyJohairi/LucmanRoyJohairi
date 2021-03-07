@@ -7,14 +7,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... An App
-- 🌱 I’m currently learning ... Bloc Pattern
-- 👯 I’m looking to collaborate on ... Flutter
-- 🤔 I’m looking for help with ... Everything
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am improving my skills everyday!
+- 🔭 I’m currently working on An App
+- 🌱 I’m currently learning  Bloc Pattern
+- 👯 I’m looking to collaborate on  Flutter
+- 🤔 I’m looking for help with  Everything
+- 💬 Ask me about  Anything
+- 📫 How to reach me: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
+- 😄 Pronouns: He/Him/King
+- ⚡ Fun fact: I am improving my skills everyday!
 
 ### Connect with me:
 
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
@@ -42,6 +41,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi&&show_icons=true&title_color=ffffff&icon_color=fff5b1&text_color=daf7dc&bg_color=0366d6" />
+
 
 [gmail]: https://mail.google.com/
 [twitter]: https://twitter.com/codeSTACKr
