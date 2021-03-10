@@ -1,6 +1,6 @@
 ## Mobile Developer | UI/UX Designer
-<!--
-![Mobile Developer | Web Developer | UI/UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+
+![Mobile Developer| UI/UX Designer](https://www.signitysolutions.com/blog/wp-content/uploads/2020/04/Flutter-app-development-signity-solutions-1024x512.png)
 
 I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
 
@@ -12,7 +12,7 @@ A bit about me:
 - 🔎 I’m looking for help with  Everything
 - 💬 Ask me about Anything
 - ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
--  :sunglasses: Call me: Bro/Sir/King
+- 😁 Call me: Roy
 - 💡 Fun fact: I am improving my skills Everyday!
 <!--
 ### Connect with me:
