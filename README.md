@@ -54,11 +54,12 @@ I am an experienced Mobile Developer based in Philippines. I mostly focus on dev
 
 <br />
 <br />
-<br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi"/>
 
 </br>
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmanroyjohairi&layout=compact" />
 
