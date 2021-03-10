@@ -6,8 +6,10 @@
 I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
 
 ## 📫 Connect with me: 
+
 </br>
 </br>
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=gmail&logo=gmail&style=social&url=https%3A%2F%2Fwww.twitter.com)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.twitter.com)
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=YouTube&logo=Youtube&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)
