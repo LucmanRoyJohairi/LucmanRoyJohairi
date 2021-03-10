@@ -1,13 +1,17 @@
-### Glad you Found me! 👊
-
+### Roy Johairi Lucman
+#### Mobile Developer | UI/UX Designer
 <!--
-**LucmanRoyJohairi/LucmanRoyJohairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Mobile Developer | Web Developer | UI/UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-## Mobile Developer | Web Developer | UI/UX Designer
+I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
 
- A bit about me: 
-
+## 📫 Connect with me: 
+</br>
+</br>
+![Twitter URL](https://img.shields.io/twitter/url?label=gmail&logo=gmail&style=social&url=https%3A%2F%2Fwww.twitter.com)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.twitter.com)
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=YouTube&logo=Youtube&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)
 - 💻 I’m currently working on An App 😏 
 -  :book: I’m currently learning  Bloc Pattern
 - 👯 I’m looking to collaborate on  Flutter
@@ -17,6 +21,7 @@
 -  :sunglasses: Call me: Bro/Sir/King
 - 💡 Fun fact: I am improving my skills Everyday!
 
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -28,11 +33,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][instagram]
-
+-->
 <br />
 <br />
 
-### Languages and Tools:
+### Technologies used
 
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][cssplaylist]
@@ -53,8 +58,8 @@
 <br />
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi&&show_icons=true&title_color=ffffff&icon_color=fff5b1&text_color=daf7dc&bg_color=0366d6" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmanroyjohairi&layout=compact" />
 
 [gmail]: https://mail.google.com/
 [twitter]: https://twitter.com
@@ -64,3 +69,5 @@
 [webdevplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
+
+
