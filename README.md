@@ -14,7 +14,6 @@ I am an experienced Mobile Developer based in Philippines. I mostly focus on dev
 - ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
 -  :sunglasses: Call me: Bro/Sir/King
 - 💡 Fun fact: I am improving my skills Everyday!
-
 <!--
 ### Connect with me:
 
@@ -28,7 +27,6 @@ I am an experienced Mobile Developer based in Philippines. I mostly focus on dev
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][instagram]
 -->
-<br />
 
 ### Connect with me: 
 
