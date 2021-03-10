@@ -1,6 +1,6 @@
 ## Mobile Developer | UI/UX Designer
 
-![Mobile Developer| UI/UX Designer](https://www.signitysolutions.com/blog/wp-content/uploads/2020/04/Flutter-app-development-signity-solutions-1024x512.png)
+![Mobile Developer| UI/UX Designer](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)
 
 I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
 
