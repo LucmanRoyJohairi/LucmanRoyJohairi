@@ -4,8 +4,8 @@
 
 ## Roy Johairi Lucman
 
-I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
-
+Hi, I'm Roy, I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
+< --
 A bit about me:
 
 - 💻 I’m currently working on An App 😏 
@@ -15,7 +15,7 @@ A bit about me:
 - 💬 Ask me about Anything
 - ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
 - 😁 Call me: Roy
-- 💡 Fun fact: I am improving my skills Everyday!
+- 💡 Fun fact: I am improving my skills Everyday! -->
 <!--
 ### Connect with me:
 
