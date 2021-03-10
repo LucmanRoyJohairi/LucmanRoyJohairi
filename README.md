@@ -6,9 +6,6 @@
 I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
 ##
 
-</br>
-
-
 - 💻 I’m currently working on An App 😏 
 -  :book: I’m currently learning  Bloc Pattern
 - 👯 I’m looking to collaborate on  Flutter
@@ -31,7 +28,6 @@ I am an experienced Mobile Developer based in Philippines. I mostly focus on dev
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][instagram]
 -->
-<br />
 <br />
 
 ### Connect with me: 
