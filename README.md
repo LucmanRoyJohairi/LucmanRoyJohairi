@@ -3,7 +3,8 @@
 ![Mobile Developer | Web Developer | UI/UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
-##
+
+A bit about me:
 
 - 💻 I’m currently working on An App 😏 
 -  :book: I’m currently learning  Bloc Pattern
