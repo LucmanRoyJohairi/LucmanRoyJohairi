@@ -1,5 +1,4 @@
-## Roy Johairi Lucman
-### Mobile Developer | UI/UX Designer
+## Mobile Developer | UI/UX Designer
 <!--
 ![Mobile Developer | Web Developer | UI/UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
@@ -54,7 +53,7 @@ I am an experienced Mobile Developer based in Philippines. I mostly focus on dev
 
 <br />
 <br />
-
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi"/>
 
