@@ -1,6 +1,6 @@
 
 
-![Mobile Developer| UI/UX Designer](https://www.flyingpenguins.in/blogs/wp-content/uploads/2020/08/Web-Development.jpg)
+![Mobile Developer| UI/UX Designer](https://equinoxx.in/images/Courses-Banner/web-development.jpg)
 
 ## Software Developer
 
