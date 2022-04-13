@@ -1,6 +1,6 @@
 
 
-![Mobile Developer| UI/UX Designer](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)
+![Mobile Developer| UI/UX Designer](https://www.flyingpenguins.in/blogs/wp-content/uploads/2020/08/Web-Development.jpg)
 
 ## Software Developer
 
