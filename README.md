@@ -1,6 +1,6 @@
 
 
-![Mobile Developer| UI/UX Designer](https://equinoxx.in/images/Courses-Banner/web-development.jpg)
+![Mobile Developer| UI/UX Designer](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 
 ## Software Developer
 
