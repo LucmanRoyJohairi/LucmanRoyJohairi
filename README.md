@@ -2,18 +2,19 @@
 
 ![Mobile Developer| UI/UX Designer](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)
 
-## Mobile Developer
+## Software Developer
 
-Hi, I'm Roy, I am an experienced Mobile Developer based in Philippines. I mostly focus on developing Android applications, however, I also have experience in making iOS as well as cross-platform applications using Flutter. If there is anything I can help you with, feel free to contact me. I'm always interested in a chance to improve my skills even further.
+I am a Software Developer based in Philippines. I have experience in making Mobile Applications using the Flutter Framework, and also web applications using Laravel. I primarily work on the server-side, but I am also capable of working on the client-side. I made a list below of all the technologies I am familiar with. If there is anything I can help you with, or if you feel my services will be of use to you, feel free to contact me. I'm always interested in a chance to improve my skills even further by experiencing different technologies and at the same time provide quality work to whoever needs it.
 
-- 💻 I’m currently working on An App 😏 
--  :book: I’m currently learning  Bloc Pattern
-- 👯 I’m looking to collaborate on  Flutter
-- 🔎 I’m looking for help with  Everything
-- 💬 Ask me about Anything
-- ✉️  email me at: [lucman.royjohairi@gmail.com](mailto:lucman.royjohairi@gmail.com)
-- 😁 Call me: Roy
-- 💡 Fun fact: I am improving my skills Everyday!
+Frameworks:
+Laravel, Flutter, Vue js, Frappe, Tailwind CSS
+
+Languages:
+HTML, CSS, Javascript, Dart, Python, PHP
+
+Database:
+MySQL, Firebase, MariaDB
+
 <!--
 ### Connect with me:
 
