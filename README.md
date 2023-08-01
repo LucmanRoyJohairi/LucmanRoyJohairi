@@ -1,7 +1,3 @@
-
-
-![Mobile Developer| UI/UX Designer](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
-
 ## Software Developer
 
 I am a Software Developer based in Philippines. I have experience in making Mobile Applications using the Flutter Framework, and also web applications using Laravel. I primarily work on the server-side, but I am also capable of working on the client-side. I made a list below of all the technologies I am familiar with. If there is anything I can help you with, or if you feel my services will be of use to you, feel free to contact me. I'm always interested in a chance to improve my skills even further by experiencing different technologies and at the same time provide quality work to whoever needs it.
