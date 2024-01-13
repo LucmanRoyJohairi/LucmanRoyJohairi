@@ -1,4 +1,4 @@
-## Software Developer
+## Full-Stack Developer | Software Engineer
 
 Greetings! I'm a seasoned Full Stack Developer based in the Philippines, specializing in crafting dynamic web applications. With a strong foundation in front-end technologies like React JS, TypeScript, Redux Toolkit, Zustand, and an array of other tools, I'm dedicated to delivering engaging user experiences. On the backend, I excel in seamlessly integrating systems using Laravel, Node.js, and Express.
 
