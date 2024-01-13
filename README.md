@@ -1,29 +1,23 @@
 ## Software Developer
 
-I am a Software Developer based in Philippines. I have experience in making Mobile Applications using the Flutter Framework, and also web applications using Laravel. I primarily work on the server-side, but I am also capable of working on the client-side. I made a list below of all the technologies I am familiar with. If there is anything I can help you with, or if you feel my services will be of use to you, feel free to contact me. I'm always interested in a chance to improve my skills even further by experiencing different technologies and at the same time provide quality work to whoever needs it.
+Greetings! I'm a seasoned Full Stack Developer based in the Philippines, specializing in crafting dynamic web applications. With a strong foundation in front-end technologies like React JS, TypeScript, Redux Toolkit, Zustand, and an array of other tools, I'm dedicated to delivering engaging user experiences. On the backend, I excel in seamlessly integrating systems using Laravel, Node.js, and Express.
 
-Frameworks/Libraries:
-Laravel, CodeIgniter, Flutter, React, Next.js, Tailwind CSS
+Key Skills:
 
-Languages:
-HTML, CSS, Javascript, Dart, Python, PHP
+- Front-end: React JS, TypeScript, Redux Toolkit, Zustand, and various other front-end tools.
+- Back-end: Proficient in Laravel, Node.js, and Express for robust server-side development.
+- API Integration: Skillful in creating seamless connections between diverse systems.
+- DevOps: Experience with Docker, streamlining deployment processes and ensuring consistent development environments.
+- File Transfer: Familiar with FTP (File Transfer Protocol) for efficient and secure file transfers, contributing to seamless data exchange between systems.
+- Version Control: Proficient in Git, GitHub, and Bitbucket, ensuring efficient collaboration, version tracking, and code management throughout the development lifecycle.
 
-Database:
-MySQL, Firebase, MariaDB
+Moreover, I bring valuable experience working in Linux environments and command-line interfaces. My proficiency in navigating Linux systems and leveraging command-line tools, coupled with Docker, FTP, and version control expertise, enhances my efficiency in development workflows, deployment strategies, and collaborative coding practices.
 
-<!--
-### Connect with me:
+I'm enthusiastic about continuous improvement, always eager to explore new technologies. If you have a project that could benefit from my skills or if there's an opportunity to collaborate and enhance my expertise, feel free to reach out. I'm committed to delivering top-notch quality work and am excited about the prospect of contributing to your success.
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][instagram]
--->
+Looking forward to the possibility of working together!
+
+
 
 ### Connect with me: 
 
@@ -31,7 +25,7 @@ MySQL, Firebase, MariaDB
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Fwww.twitter.com)
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=YouTube&logo=Youtube&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2F)
-
+<!--
 ### Technologies used
 
 
@@ -48,23 +42,21 @@ MySQL, Firebase, MariaDB
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />][webdevplaylist]
-
+-->
 <br />
 <br />
 <br />
-
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi"/>
-
-</br>
-<br />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmanroyjohairi&layout=compact" />
+-->
+
 
 [gmail]: https://mail.google.com/
 [twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com
-[linkedin]: https://linkedin.com
+[linkedin]: [https://linkedin.com](https://www.linkedin.com/in/royjohairilucman/)
 [webdevplaylist]: https://www.youtube.com
 [cssplaylist]: https://www.youtube.com
 [jsplaylist]: https://www.youtube.com
