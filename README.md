@@ -5,11 +5,12 @@ Greetings! I'm a seasoned Full Stack Developer based in the Philippines, special
 Key Skills:
 
 - Front-end: React JS, Next.js TypeScript, Redux Toolkit, Zustand, and various other front-end tools.
-- Back-end: Proficient in Laravel, Node.js, Spring Boot and Express for robust server-side development.
+- Back-end: Proficient in FastAPI, Laravel, Node.js, Spring Boot and Express for robust server-side development.
 - API Integration: Skillful in creating seamless connections between diverse systems.
 - DevOps: Experience with Docker, streamlining deployment processes and ensuring consistent development environments.
 - File Transfer: Familiar with FTP (File Transfer Protocol) for efficient and secure file transfers, contributing to seamless data exchange between systems.
 - Version Control: Proficient in Git, GitHub, and Bitbucket, ensuring efficient collaboration, version tracking, and code management throughout the development lifecycle.
+- AI tools: Claude code, Cursor, Codex, LLMs, RAG, Vector DB
 
 Moreover, I bring valuable experience working in Linux environments and command-line interfaces. My proficiency in navigating Linux systems and leveraging command-line tools, coupled with Docker, FTP, and version control expertise, enhances my efficiency in development workflows, deployment strategies, and collaborative coding practices.
 
