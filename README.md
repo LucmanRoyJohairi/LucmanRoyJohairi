@@ -16,23 +16,3 @@ Moreover, I bring valuable experience working in Linux environments and command-
 I'm enthusiastic about continuous improvement, always eager to explore new technologies. If you have a project that could benefit from my skills or if there's an opportunity to collaborate and enhance my expertise, feel free to reach out. I'm committed to delivering top-notch quality work and am excited about the prospect of contributing to your success.
 
 Looking forward to the possibility of working together!
-
-<br />
-<br />
-<br />
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucmanroyjohairi"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucmanroyjohairi&layout=compact" />
--->
-
-
-[gmail]: https://mail.google.com/
-[twitter]: https://twitter.com
-[youtube]: https://youtube.com
-[instagram]: https://instagram.com
-[linkedin]: [https://linkedin.com](https://www.linkedin.com/in/royjohairilucman/)
-[webdevplaylist]: https://www.youtube.com
-[cssplaylist]: https://www.youtube.com
-[jsplaylist]: https://www.youtube.com
-
-
