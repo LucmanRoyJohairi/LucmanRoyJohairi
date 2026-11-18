@@ -1,19 +1,25 @@
-## Full-Stack Developer | Software Engineer
+### 💻 **Full-Stack Developer | Software Engineer** • Based in the Philippines 🇵🇭
 
-Greetings! I'm a seasoned Full Stack Developer based in the Philippines, specializing in crafting dynamic web applications. With a strong foundation in front-end technologies like React JS, TypeScript, Redux Toolkit, Zustand, and an array of other tools, I'm dedicated to delivering engaging user experiences. On the backend, I excel in seamlessly integrating systems using Laravel, Node.js, and Express.
+Hi there 👋 I’m a Software Engineer with **4 years of experience** building scalable web applications, dark-mode interfaces, and automated payment systems. I specialize in turning product ideas into clean, production-ready code—from responsive React frontends to reliable database architectures and cloud deployments.
 
-Key Skills:
+---
 
-- Front-end: React JS, Next.js TypeScript, Redux Toolkit, Zustand, and various other front-end tools.
-- Back-end: Proficient in FastAPI, Laravel, Node.js, Spring Boot and Express for robust server-side development.
-- API Integration: Skillful in creating seamless connections between diverse systems.
-- DevOps: Experience with Docker, streamlining deployment processes and ensuring consistent development environments.
-- File Transfer: Familiar with FTP (File Transfer Protocol) for efficient and secure file transfers, contributing to seamless data exchange between systems.
-- Version Control: Proficient in Git, GitHub, and Bitbucket, ensuring efficient collaboration, version tracking, and code management throughout the development lifecycle.
-- AI tools: Claude code, Cursor, Codex, LLMs, RAG, Vector DB
+### 🛠 Tech Stack
 
-Moreover, I bring valuable experience working in Linux environments and command-line interfaces. My proficiency in navigating Linux systems and leveraging command-line tools, coupled with Docker, FTP, and version control expertise, enhances my efficiency in development workflows, deployment strategies, and collaborative coding practices.
+| Category | Technologies |
+| :--- | :--- |
+| **Front-End** | `React` `Next.js` `TypeScript` `Tailwind CSS` `Redux Toolkit` `Zustand` |
+| **Back-End** | `Node.js` `Express` `FastAPI` `Laravel` `Spring Boot` |
+| **Databases & ORM** | `PostgreSQL` `Neon Postgres` `Supabase` `Prisma` `SQLAlchemy` `Alembic` |
+| **Auth & Payments** | `Clerk` `Stripe` `USDT (TRC20) / TronGrid` |
+| **DevOps & Tools** | `Vercel` `Docker` `Linux / CLI` `Git` `GitHub` `Bitbucket` |
+| **AI Workflows** | `Cursor` `Claude Code` `Codex` `LLMs` `RAG` `Vector DBs` |
 
-I'm enthusiastic about continuous improvement, always eager to explore new technologies. If you have a project that could benefit from my skills or if there's an opportunity to collaborate and enhance my expertise, feel free to reach out. I'm committed to delivering top-notch quality work and am excited about the prospect of contributing to your success.
+---
 
-Looking forward to the possibility of working together!
+### ⚡ How I Work
+* **Clean Architecture:** Writing maintainable, well-typed code with thorough local testing before every push.
+* **End-to-End Delivery:** Comfortable handling everything from UI polish and database migrations to webhook/on-chain payment verification and Vercel/Docker deployments.
+* **AI-Assisted Engineering:** Leveraging Cursor and modern LLM workflows to navigate and ship features fast inside existing codebases.
+
+📫 **Let's connect:** Feel free to explore my pinned repositories below or reach out if you'd like to collaborate!
